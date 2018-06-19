@@ -1,6 +1,6 @@
-# simsimi1
+# Simsimi ChatBot with Facebook Messenger GUI Like
 
-> A Vue.js project
+> My relaxing application ^^
 
 ## Build Setup
 
